@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+#dice {
+    font-size : 160px;
+    margin : 40px;
+}
+
+button {
+    font-size : 18px;
+    padding : 10px 20px ;
+    cursor : pointer ;
+}
+
+#result {
+    font-size : 22px;
+    margin-top : 20px;
+    font-weight : bold;
+}
+
+
